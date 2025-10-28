@@ -1,3 +1,3 @@
 # Web challenges
 
-Add challenge folders and writeups here.
+Add web related challenge folders and writeups here.
