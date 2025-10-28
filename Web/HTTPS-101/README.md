@@ -1,8 +1,8 @@
 # HTTPS 101 (Web CTF)
 
 ## Challenge Description
-i was provided with a certificate file named `my-selfsigned.crt`.  
-The goal is to inspect the certificate and discover information about the website it was issued for, as well as the public key algorithm used.
+I was provided with a certificate file named `my-selfsigned.crt`.  
+The goal was to inspect the certificate and discover information about the website it was issued for, as well as the public key algorithm used.
 
 ---
 
