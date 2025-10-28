@@ -1,3 +1,3 @@
 # Forensics challenges
 
-Add challenge folders and writeups here.
+Add forensic related challenge folders and writeups here.
