@@ -1,3 +1,3 @@
 # Pwn challenges
 
-Add challenge folders and writeups here.
+Add pwn related challenge folders and writeups here.
