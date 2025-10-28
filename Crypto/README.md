@@ -1,3 +1,3 @@
 # Crypto challenges
 
-Add challenge folders and writeups here.
+Add crypto related challenge folders and writeups here.
