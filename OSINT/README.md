@@ -1,3 +1,3 @@
 # OSINT challenges
 
-Add challenge folders and writeups here.
+Add OSINT related challenge folders and writeups here.
