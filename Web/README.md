@@ -1,3 +1,3 @@
-# Web challenges
+🌐 Web Challenges
 
-Add web related challenge folders and writeups here.
+This section contains all Web Security–related CTF challenges, including vulnerable applications, payloads, exploitation steps, and detailed write-ups.
